@@ -1,3 +1,3 @@
 # orderSummary
 
-My solution
+My solution of challange
